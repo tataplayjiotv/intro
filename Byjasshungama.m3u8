@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://livetvbox.live:8080/live/shoaib/shoaib/19741.m3u8
+http://119.156.26.155:8000/play/a05t/index.m3u8
